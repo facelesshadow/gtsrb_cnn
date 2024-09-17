@@ -1,5 +1,5 @@
 
-# German Traffic Sign Classification with Convolutional Neural Networks
+# Convolutional Neural Network for Traffic Sign Recognition
 
 This project implements a Convolutional Neural Network (CNN) to classify German traffic signs using the [German Traffic Sign Recognition Benchmark (GTSRB)] dataset. The dataset contains over 50,000 labeled images of 43 different types of traffic signs, which are used to train and evaluate the model.
 
