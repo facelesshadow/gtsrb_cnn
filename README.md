@@ -57,6 +57,18 @@ You can install the dependencies by running:
 pip install tensorflow keras numpy 
 ```
 
+## Usage
+
+To start training the model, execute:
+
+``` 
+python model.py data
+```
+
+**NOTE:** I am only including the smaller version of this dataset containing 3 categories. You can download the full data set from [here](https://cdn.cs50.net/ai/2023/x/projects/5/gtsrb.zip).
+While training with the smaller data set, change `CATEGORIES` to 3.
+
+
 ## Output
 
 The model achieves a reasonable accuracy on both the training and test sets after 10 epochs of training. You can modify the number of epochs and other hyperparameters to further improve the model's performance.

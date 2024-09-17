@@ -14,7 +14,7 @@ TEST_SIZE = 0.2
 
 
 if len(sys.argv) != 2:
-    sys.exit("Usage: ")
+    sys.exit("Usage: python model.py data")
 
 
 path = sys.argv[1]
